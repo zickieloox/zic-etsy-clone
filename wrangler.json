@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "zic-etsy-clone",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "7d17d4d2-ca41-47dc-af85-38491947ef4a",
+			"database_name": "zic-etsy-clone"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
